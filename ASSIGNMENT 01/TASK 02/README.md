@@ -1,8 +1,9 @@
 
+
 ## Task 02 – README.md
 
-```markdown
-# Task 02 – [Task Title]
+
+# Task 02 – [Values and Types]
 
 ## Aim
 To implement the required milk payment calculation using Python.
@@ -18,5 +19,5 @@ This task demonstrates the use of Python variables, input statements, and arithm
 5. Stop the program.
 
 ## Execution
-```bash
+
 python task02.py
