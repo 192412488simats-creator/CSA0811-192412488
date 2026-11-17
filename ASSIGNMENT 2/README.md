@@ -63,5 +63,4 @@ python Task07_Diagnose_Redesign_Validate.py
 
 This assignment helped develop practical knowledge of Python control flow, string manipulation, functions, recursion and performance analysis. All seven tasks were implemented and tested.
 
-### GitHub Repository Link
-Paste your repository URL here.
+
